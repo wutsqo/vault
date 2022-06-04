@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "books/How to Win Friends & Influence People.md",
+            "file": "books/How to Win Friends and Influence People.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books/How to Win Friends & Influence People.md",
+                "file": "books/How to Win Friends and Influence People.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +97,6 @@
   },
   "active": "0e248e6802e4236e",
   "lastOpenFiles": [
-    "books/How to Win Friends & Influence People.md"
+    "books/How to Win Friends and Influence People.md"
   ]
 }
