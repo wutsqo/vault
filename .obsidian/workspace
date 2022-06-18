@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "books/How to Win Friends and Influence People.md",
+            "file": "youtube/Change Your Life – One Tiny Step at a Time.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books/How to Win Friends and Influence People.md",
+                "file": "youtube/Change Your Life – One Tiny Step at a Time.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +97,12 @@
   },
   "active": "0e248e6802e4236e",
   "lastOpenFiles": [
+    "youtube/Change Your Life – One Tiny Step at a Time.md",
+    "youtube/Why You're Always Tired (and how to fix it).md",
+    "logs/22W23.md",
+    "notes/Restart.md",
+    "logs/22W22.md",
+    "books/The Midnight Library.md",
     "books/How to Win Friends and Influence People.md"
   ]
 }
